@@ -1,2 +1,2 @@
 # E-Voting
-This is my master project in software engineering
+This is my masters project in software engineering
